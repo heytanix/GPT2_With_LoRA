@@ -26,3 +26,6 @@ This project demonstrates how to fine-tune the GPT-2 language model using two ap
 - Matplotlib and TQDM for visualization and progress tracking
 
 ## Install dependencies via:
+``bash
+pip install transformers peft datasets accelerate matplotlib tqdm
+``
